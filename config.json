@@ -1,8 +1,8 @@
 {
-	"prefix": "*",
+	"prefix": "a!",
 
 	"activity": {
-		"game1": "you crawl out of the grave",
+		"game1": "tu rampes hors de la tombe",
 		"game2": "Minecraft",
 		"game3": "Among Us",
 		"game4": "Valorant"
